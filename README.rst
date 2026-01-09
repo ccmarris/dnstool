@@ -95,7 +95,7 @@ Alternative you can download as a Zip file.
 Usage
 -----
 
-The script support -h or --help on the command line to access the options 
+The script supports -h or --help on the command line to access the options 
 available::
 
   % ./dnstool.py --help
